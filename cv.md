@@ -1,7 +1,30 @@
 Sergey Bazylevich
-Tel: +375297218164, E-mail: cbilling36@gmail.com
+=================
+ 
+Contact information
+----------------------------- 
+Tel: +375297218164
+
+E-mail: cbilling36@gmail.com
+
+About myself
+-----------------------------
 The priority is to study a full stack developer and learn English. I can work and study very hard. No experience in commercial development.
-HTML - basic, CSS - basic, JS - basic, Salesforce Aura - basic, Apex - basic
+
+Skills
+-----------------------------
+HTML - basic
+
+CSS - basic
+
+JS - basic
+
+Salesforce Aura - basic
+
+Apex - basic
+
+Code preview
+-----------------------------
 ```javascript
 window.onload = function () {
     function clock() {
@@ -29,7 +52,32 @@ window.onload = function () {
     }
 
     var timer;
-    ```
-Junior Front-end Developer on courser https://github.com/uspehcoursbrest/BazylevichDiplomaProject
-Belarusion State Agrarian Technical University - Ingineer-Energy, Education center Uspeh Front-end Development courses
-A2 - no practice
+```
+
+Expirence
+---------
+August 2020 - November 2020: **OOO PROEKT-KC** *System administration*
+
+March 2020 - July 2020: **SP.Z.O.O IVITER** *Engineer-Electronical*
+
+November 2018 - February 2019: **Education center Uspeh** *Junior Front-end Developer on courser https://github.com/uspehcoursbrest/BazylevichDiplomaProject*
+
+March 2012 - March 2020: **IOOO PROFILE VOX** *Technical-Energy*
+
+Education
+---------
+2012-2018: **Belarusion State Agrarian Technical University** *Ingineer-Energy*
+
+
+2018-2019: **Education center Uspeh** *Front-end Development courses*
+
+
+Language
+--------
+Russian - native
+
+Polish - B2
+
+English - A2 - no practice
+
+
